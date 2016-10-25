@@ -1,0 +1,6 @@
+framework module Pods_copyPasteAppUITests {
+  umbrella header "Pods-copyPasteAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

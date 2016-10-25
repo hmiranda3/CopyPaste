@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-copyPasteApp.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-copyPasteAppTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-copyPasteAppUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>TesseractOCRiOS.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>4BC8F09DEA29997A80DCF07DD0F65BAF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>80307D71404EF90CAF5F000A01854514</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CD3BFB472D7F87060D34274B86EDFBCC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F349BCCB1ED3F711A97A4CC4CC7D3B54</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
